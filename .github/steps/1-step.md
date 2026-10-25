@@ -14,7 +14,7 @@ Workflows let you automate tasks like building, testing, or deploying your code,
 
 ### ⌨️ Activity: Create a workflow file
 
-1. Open this repository in a new browser tab so you can work on the steps while you read the instructions in this tab.
+1. Open this repository in a new browser tab so you can work on the steps while you read the instructions in this tab. this is me editing this and taking the MICKKKKKK. say goodbye step 1 muahahahaha im breaking it all. L): ):):)
 
 1. In the **Code** tab of your repository, create a new branch named `welcome-workflow`.
 
